@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Athletes>
+    <Athlete>
+        <name>John Smith</name>
+        <rank>1</rank>
+        <totalScore>3165.0</totalScore>
+    </Athlete>
+    <Athlete>
+        <name>Jane Doe</name>
+        <rank>2</rank>
+        <totalScore>2258.0</totalScore>
+    </Athlete>
+    <Athlete>
+        <name>Jaan Lepp</name>
+        <rank>3</rank>
+        <totalScore>2444.0</totalScore>
+    </Athlete>
+    <Athlete>
+        <name>Foo Bar</name>
+        <rank>4</rank>
+        <totalScore>2267.0</totalScore>
+    </Athlete>
+</Athletes>
